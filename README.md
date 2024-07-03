@@ -1,6 +1,6 @@
 # Learning Action Conditions from Instructional Manuals for Instruction Understanding
 
-(Under construction.)
+(🚧 Under construction.)
 
 This repository releases the curated dataset for `action-and-condition dependencies` from some popular online instructional manuals. For more details, please check out our [ACL 2023 paper](https://arxiv.org/pdf/2205.12420).
 
